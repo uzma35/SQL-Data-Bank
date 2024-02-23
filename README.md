@@ -2,6 +2,7 @@
 This is my first portfolio project for SQL
 
 **Author**: Uzma Rani
+
 **Project**: Data Bank Case Study
 
 **Description**: There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
