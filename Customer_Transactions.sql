@@ -1,5 +1,6 @@
 -- B. Customer Transactions
 -- What is the unique count and total amount for each transaction type?
+
 select txn_type,
 count(*) as unique_count,
 sum(txn_amount) as total_amont
